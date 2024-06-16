@@ -1,4 +1,4 @@
-# Le Capybara ZMK Config Repo:
+# Le Capybara ZMK Config Repo:h
 
 Super experimental [Le Capybara](https://github.com/sporkus/le_capybara_keyboard/) keyboard support for ZMK.
 
