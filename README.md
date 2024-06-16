@@ -4,7 +4,7 @@ Super experimental [Le Capybara](https://github.com/sporkus/le_capybara_keyboard
 
 ## Wie denn das:
 - DFU gedrückt halten reinstecken
-- Image sporkus_le_capybara_calibrator flashen
+- Image sporkus_le_capybara_calibrator flashen - `dfu-util -a 0 -D sporkus_le_capybara_calibrator.bin -s 0x08000000`
 - wenn fertig, kabel raus und wieder rein - nun kann man tippen 
 - dann kam in den EC Modus mit screen /dev/tty.usbmodem1101
 - calibration machen und normal schnell jede Tasten drücken, nicht langsam.. 
