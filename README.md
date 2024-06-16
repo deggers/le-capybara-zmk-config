@@ -1,6 +1,16 @@
-# Le Capybara ZMK Config Repo:h
+# Le Capybara ZMK Config Repo:
 
 Super experimental [Le Capybara](https://github.com/sporkus/le_capybara_keyboard/) keyboard support for ZMK.
+
+## Wie denn das:
+- DFU gedrückt halten reinstecken
+- Image sporkus_le_capybara_calibrator flashen
+- wenn fertig, kabel raus und wieder rein - nun kann man tippen 
+- dann kam in den EC Modus mit screen /dev/tty.usbmodem1101
+- calibration machen und normal schnell jede Tasten drücken, nicht langsam.. 
+- speichern
+- rausziehen und wieder reinstecken
+- fertig
 
 ## Calibration
 
